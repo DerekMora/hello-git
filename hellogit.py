@@ -1,3 +1,2 @@
 print("Hello")
-
-num=1
+print("fit diff")
